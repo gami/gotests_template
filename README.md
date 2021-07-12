@@ -1,0 +1,1 @@
+# gotests_template
